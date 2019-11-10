@@ -1,1 +1,3 @@
-# blank
+# Blank
+
+A blank web page.
