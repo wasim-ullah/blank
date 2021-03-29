@@ -22,17 +22,3 @@
 		family: $font;
 	};
 }
-
-
-* {
-   margin: 0;
-   padding: 0;
-}
-
-html {
-   overflow: hidden;
-}
-
-canvas {
-   cursor:none;
-}
