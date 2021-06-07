@@ -3,7 +3,7 @@
 /* Not required for template or sticky footer method. */
 
 body {
-  background-color: #f2fffd;
+  background-color: #000000;
 }
 
 .container {
@@ -13,7 +13,7 @@ body {
 }
 
 .text {
-	background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+	background: #FFFFFF;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 }
